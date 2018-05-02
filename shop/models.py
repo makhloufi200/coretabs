@@ -8,6 +8,8 @@ class Category(models.Model):
     name = models.CharField(max_length=100)
     slug = models.SlugField(unique=True, blank=True)
     created_at = models.DateTimeField(auto_now_add=True)
+    description = models.TextField(blank=True)
+
     class Meta:
         ordering = ('name', )
 
