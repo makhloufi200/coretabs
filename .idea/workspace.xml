@@ -26,7 +26,7 @@
       <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shop/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="36" selection-start="619" selection-end="626" vertical-scroll-proportion="0.0" vertical-offset="349" max-vertical-offset="935">
+            <state line="24" column="53" selection-start="619" selection-end="643" vertical-scroll-proportion="0.0" vertical-offset="43" max-vertical-offset="935">
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -37,7 +37,7 @@
       <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shop/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="4" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+            <state line="6" column="39" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -45,21 +45,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coretabs/urls.py">
+      <file leaf-file-name="list_by_category.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop/templates/shop/product/list_by_category.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="4" selection-start="773" selection-end="773" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
-              <folding>
-                <element signature="e#632#664#0" expanded="true" />
-              </folding>
+            <state line="7" column="16" selection-start="126" selection-end="126" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="340">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shop/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="57" selection-start="607" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+            <state line="29" column="89" selection-start="920" selection-end="1109" vertical-scroll-proportion="0.8259386" vertical-offset="9" max-vertical-offset="595">
               <folding>
                 <element signature="e#0#54#0" expanded="true" />
               </folding>
@@ -70,16 +68,7 @@
       <file leaf-file-name="list.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shop/templates/shop/product/list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="19" selection-start="382" selection-end="382" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="510">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/shop/static/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="47" selection-start="252" selection-end="252" vertical-scroll-proportion="0.43515357" vertical-offset="0" max-vertical-offset="586">
+            <state line="11" column="61" selection-start="248" selection-end="264" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -101,13 +90,13 @@
         <option value="$PROJECT_DIR$/shop/templates/shop/list.html" />
         <option value="$PROJECT_DIR$/coretabs/urls.py" />
         <option value="$PROJECT_DIR$/shop/models.py" />
-        <option value="$PROJECT_DIR$/shop/urls.py" />
-        <option value="$PROJECT_DIR$/shop/views.py" />
         <option value="$PROJECT_DIR$/shop/templates/shop/product/list_by_category.html" />
         <option value="$PROJECT_DIR$/shop/templates/shop/product/detail.html" />
         <option value="$PROJECT_DIR$/shop/templates/shop/base.html" />
-        <option value="$PROJECT_DIR$/shop/templates/shop/product/list.html" />
         <option value="$PROJECT_DIR$/shop/static/style.css" />
+        <option value="$PROJECT_DIR$/shop/templates/shop/product/list.html" />
+        <option value="$PROJECT_DIR$/shop/urls.py" />
+        <option value="$PROJECT_DIR$/shop/views.py" />
       </list>
     </option>
   </component>
@@ -409,7 +398,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -493,44 +482,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coretabs/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="4" selection-start="773" selection-end="773" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
-          <folding>
-            <element signature="e#632#664#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="36" selection-start="619" selection-end="626" vertical-scroll-proportion="0.0" vertical-offset="349" max-vertical-offset="935">
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/coretabs/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="19" selection-start="144" selection-end="144" vertical-scroll-proportion="0.20307167" vertical-offset="0" max-vertical-offset="586">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop/templates/shop/product/list_by_category.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="14" selection-start="343" selection-end="343" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="340">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="4" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -541,15 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="57" selection-start="607" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
-          <folding>
-            <element signature="e#0#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop/templates/shop/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="45" selection-start="130" selection-end="130" vertical-scroll-proportion="0.15178572" vertical-offset="0" max-vertical-offset="560">
@@ -557,10 +503,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop/templates/shop/product/list.html">
+    <entry file="file://$PROJECT_DIR$/coretabs/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="19" selection-start="382" selection-end="382" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="510">
-          <folding />
+        <state line="22" column="4" selection-start="773" selection-end="773" vertical-scroll-proportion="0.63822526" vertical-offset="0" max-vertical-offset="586">
+          <folding>
+            <element signature="e#632#664#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -568,6 +516,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="47" selection-start="252" selection-end="252" vertical-scroll-proportion="0.43515357" vertical-offset="0" max-vertical-offset="586">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/templates/shop/product/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="61" selection-start="248" selection-end="264" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/templates/shop/product/list_by_category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="16" selection-start="126" selection-end="126" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="53" selection-start="619" selection-end="643" vertical-scroll-proportion="0.0" vertical-offset="43" max-vertical-offset="935">
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="39" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="89" selection-start="920" selection-end="1109" vertical-scroll-proportion="0.8259386" vertical-offset="9" max-vertical-offset="595">
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
