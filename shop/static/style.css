@@ -1,0 +1,17 @@
+#header{
+	margin-bottom: 20px;
+	background:	#efefef;
+
+}
+
+h1, h2{
+      text-align: center;
+
+    background-color: #999;
+    background: linear-gradient(#4e69a2,#999);
+}
+
+ul{
+    background-color: #e6e6e6;
+    background: linear-gradient(#4e69a2,#e6e6e6);
+}

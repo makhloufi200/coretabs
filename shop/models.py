@@ -1,5 +1,6 @@
 from django.db import models
 from django.utils.text import slugify
+from django.urls import reverse_lazy
 # Create your models here.
 
 
@@ -20,6 +21,8 @@ class Category(models.Model):
 
         super().save(*args, **kwargs)
 
+    def get_absolute_url(self):
+        return reverse_lazy('product_list_by_category', args=[self.slug])
 
 class Product(models.Model):
 
@@ -42,3 +45,6 @@ class Product(models.Model):
             self.slug = slugify(self.name)
 
         super().save(*args, **kwargs)
+
+    def get_absolute_url(self):
+        return reverse_lazy('product_detail', args=[self.slug])
